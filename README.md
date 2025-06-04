@@ -12,7 +12,9 @@
 
 ## 🔥 Projects
 - [tus_yuurikai_system](https://github.com/Lit-innosence/tus_yuurikai_system): University circle management system built with Rust (Rocket) and React
-  - Features member management, event scheduling, and attendance tracking.
+  - Features member management
+  - Event scheduling
+  - Attendance tracking.
 <br>
 
 ## 🏆 Achievements
