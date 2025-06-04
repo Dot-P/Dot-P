@@ -12,7 +12,6 @@
 
 ## 🔥 Projects
 - [tus_yuurikai_system](https://github.com/Lit-innosence/tus_yuurikai_system): University circle management system built with FastAPI.
-- [ExampleProject](https://github.com/your_username/example): Another sample project.
 <br>
 
 ## 🌱 Skills
