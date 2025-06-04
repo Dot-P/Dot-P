@@ -21,7 +21,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nextjs,c,cpp,python,fastapi,flask,go,rust,dart,sql,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nextjs,c,cpp,python,fastapi,flask,go,rust,dart,docker,aws" />
 <br>
 
 ## 🏃‍♀️ Activities
