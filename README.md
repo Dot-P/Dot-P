@@ -8,7 +8,6 @@
 - 🤖 Interested in Active Vision, Manipulation, and Physical AI.
 - 🔍 Currently researching robots that actively change their viewpoint to make manipulation easier.
 - 🧩 Previously worked on 3D scene affordance segmentation using point clouds.
-- 🌐 Portfolio: [dot-p.github.io](https://dot-p.github.io/)
 
 <br>
 
