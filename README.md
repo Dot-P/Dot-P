@@ -28,17 +28,6 @@
 - **Campus Locker Reservation System**\
   I developed a locker reservation system that replaced Excel-based management with university email authentication and automatic assignment, reducing manual verification and allocation work.
 
-- **Nebraska / Unmanned Bookstore**\
-  I developed an LLM-based book recommendation system that turns vague user preferences into concrete book suggestions. I also worked on a web-based business-hour and signage management system connected to door control.
-
-- **Infodeliver / Internal Management Agent**\
-  I developed an internal workflow improvement agent that reads task information from Jira, checks progress through Slack, sends reminders for overdue tasks, and generates daily reports.
-
-- **Bandai Namco Holdings**\
-  I experienced game backend development using Go.
-
-- **CyberAgent / CYCOMPE**\
-  I worked on backend feature implementation for a video streaming service using Go.
 
 <br>
 
