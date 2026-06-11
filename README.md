@@ -25,7 +25,7 @@
 - **KUPAC / Kyoto University Physical AI Community**\
   I am working on human-like motion generation for humanoid robots using language instructions and motion retargeting techniques.
 
-- **Campus Locker Reservation System**\
+- **Campus Locker Reservation System [(tus_yuurikai_system)](https://github.com/Lit-innosence/tus_yuurikai_system)**\
   I developed a locker reservation system that replaced Excel-based management with university email authentication and automatic assignment, reducing manual verification and allocation work.
 
 
@@ -45,7 +45,6 @@
 - **Geek Camp Advance — WingArc1st Corporate Award**\
   Improved the competitive programming learning platform through UI redesign and feature enhancements, and received a corporate award from WingArc1st.
 
-- Served as a project manager for multiple projects.
 
 <br>
 
